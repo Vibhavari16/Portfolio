@@ -1,0 +1,28 @@
+.nav{
+    text-align: center;
+}
+
+.hero{
+    width: 100%;
+    height: 100vh;
+}
+
+.img1{
+    width: 60%;
+    height: 80vh;
+}
+
+
+.natureimg{
+    width: 100%;
+    height: 65vh;
+}
+
+.hero1{
+    background-color: rgb(234, 228, 228);
+}
+
+.addressimg{
+    width: 100%;
+    height: 40vh;
+}
